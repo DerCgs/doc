@@ -1,7 +1,7 @@
 ---
 title: "HyperLedger Fabric 开发记录01"
-date: 2017-08-30T01:37:56+08:00
-lastmod: 2017-08-30T01:37:56+08:00
+date: 2020-01-02 10:11:37
+lastmod: 2020-01-03 13:11:49
 draft: false
 tags: ["HyperLedger Fabric"]
 categories: []
