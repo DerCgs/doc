@@ -1,4 +1,12 @@
-# HyperLedger Fabric 开发记录01
+---
+title: "HyperLedger Fabric 开发记录01"
+date: 2017-08-30T01:37:56+08:00
+lastmod: 2017-08-30T01:37:56+08:00
+draft: false
+tags: ["HyperLedger Fabric"]
+categories: []
+author: "Der"
+---
 
 ##### [参考文档（Hyperledger Fabric官方文档）](https://hyperledger-fabric.readthedocs.io/en/latest/developapps/scenario.html)
 ##### 本文主要为官方文档的阅读整理，加上部分自己的理解，以作为部门培训讲义及自己日后查阅
